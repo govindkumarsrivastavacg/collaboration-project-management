@@ -1,1 +1,1 @@
-write down your name , registration number, your address.
+write down your name , registration number, your address,add adhaar card number
