@@ -2,3 +2,4 @@
 - enter your passsword
 - forget password
 - send verification code to gmail
+- add captcha
