@@ -1,0 +1,2 @@
+- payment successful-give request completed text
+- payment failed-give request failed text
